@@ -8,5 +8,8 @@ img{
 }
 header{
     display: flex;
-    justify-content: space-evenly;
-}
+    justify-content: space-evenly;}
+        .img-into{
+            width: 30%;
+        }
+    
