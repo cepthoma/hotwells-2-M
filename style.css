@@ -15,6 +15,7 @@ header{
     
 .intro{
     display: flex;
+    margin: 39
 }
 .equipe{
     display: grid;
