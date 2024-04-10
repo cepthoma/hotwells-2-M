@@ -21,7 +21,7 @@ header{
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
-    background-color: gold;
+    background-color: rgb(117, 213, 216);
     color: black;
 }
 .foto-equipe{
