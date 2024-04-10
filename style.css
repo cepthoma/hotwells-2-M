@@ -21,6 +21,8 @@ header{
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
+    background-color: gold;
+    color: white;
 }
 .foto-equipe{
 width: 40%;
