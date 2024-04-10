@@ -1,5 +1,5 @@
 body{
-    background-color: navajowhite;
+    background-color: gray;
     
 }
 /* trtrtrtr */
@@ -15,7 +15,7 @@ header{
     
 .intro{
     display: flex;
-    margin: ;
+    margin: 39px;
 }
 #equipe{
     display: grid;
