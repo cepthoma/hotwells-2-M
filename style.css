@@ -15,7 +15,12 @@ header{
     
 .intro{
     display: flex;
-    margin: 39px;
+    margin: 20px;
+    border: 30px solid rgb(144, 238, 144);
+    background-color: antiquewhite;
+    justify-content: space-between;
+    align-content: center;
+    align-items: flex-start;
 }
 #equipe{
     display: grid;
